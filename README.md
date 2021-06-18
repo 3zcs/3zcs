@@ -1,5 +1,14 @@
 [![3zcs's GitHub stats](https://github-readme-stats.vercel.app/api?username=3zcs&theme=gruvbox)](https://github.com/3zcs/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=3zcs&theme=gruvbox)](https://github.com/3zcs/github-profile-trophy)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/3zcs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdulazizalawshan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://instagram.com/3zcs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+
+
 
 <!--
 **3zcs/3zcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
