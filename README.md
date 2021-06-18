@@ -1,4 +1,5 @@
-### Hi there 👋
+[![3zcs's GitHub stats](https://github-readme-stats.vercel.app/api?username=3zcs)](https://github.com/3zcs/github-readme-stats)
+
 
 <!--
 **3zcs/3zcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
