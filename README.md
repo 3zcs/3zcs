@@ -1,4 +1,4 @@
-[![3zcs's GitHub stats](https://github-readme-stats.vercel.app/api?username=3zcs)](https://github.com/3zcs/github-readme-stats)
+[![3zcs's GitHub stats](https://github-readme-stats.vercel.app/api?username=3zcs&theme=gruvbox)](https://github.com/3zcs/github-readme-stats)
 
 
 <!--
